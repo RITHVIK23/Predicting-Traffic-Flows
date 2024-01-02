@@ -1,4 +1,4 @@
-##Abstract:
+Abstract:
 
 For a developing city, effective road traffic management is critical. In recent years, the Intelligent
 Transportation System (ITS) has emerged as a critical field of research for addressing a variety
